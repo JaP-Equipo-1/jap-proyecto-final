@@ -188,3 +188,29 @@ a.custom-card:hover {
 .checked {
   color: orange;
 }
+
+
+      /* *** INICIO AGREGADO *** */
+
+      #loginContenedor{
+        width: 350px;
+        border: 1px solid #ccc;
+      }
+      
+      #loginContenedor h1, #loginSubmit{
+        background-color: #f09334;
+        color: #fff;
+        border-radius: .25rem;
+        border: none;
+        width: 100%;
+      }
+      
+      #loginContenedor h1{
+        font-size: 1.8rem;
+      }
+      
+      #loginSubmit{
+        font-size: 1.3rem;
+      }
+
+      /* *** FIN AGREGADO *** */
